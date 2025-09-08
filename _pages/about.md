@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a Master’s student in Computer Science at the [University of Toronto](https://web.cs.toronto.edu/), advised by Professor [Vardan Papyan](https://sites.google.com/view/vardan-papyan/home), and a faculty affiliate researcher at the [Vector Institute](https://vectorinstitute.ai/).
 
-My research focuses on developing methods that enable foundation models—particularly in NLP—to learn and operate effectively in complex, real-world settings. Much of my work involves running experiments on large transformer models to study their inner workings, revealing interesting phenomena that both explain model behaviour and inform the design of better learning algorithms. I am especially interested in:
+My research focuses on developing methods that enable foundation models—particularly in NLP—to learn and operate effectively in complex, real-world settings. Much of my work involves running experiments on large transformer models to study their inner workings, revealing phenomena that both explain model behaviour and inform the design of better learning algorithms. I am especially interested in:
 - Mechanistic interpretability
 - Reasoning
 - Long-context and streaming applications
@@ -43,14 +43,44 @@ In my spare time, I enjoy rock climbing, hiking, bikepacking, and playing chess.
   <div class="swiper-wrapper">
     <div class="swiper-slide">
       <figure>
-        <img src="/assets/img/slide/washington.jpg" alt="washinton">
-        <figcaption>Hiking in Washinton</figcaption>
+        <img src="/assets/img/slide/washington.jpg" alt="washington">
+        <figcaption>Hiking in Washington</figcaption>
       </figure>
     </div>
     <div class="swiper-slide">
       <figure>
-        <img src="/assets/img/slide/angels_landing.jpg" alt="zion">
-        <figcaption>Hiking in Zion National Park</figcaption>
+        <img src="/assets/img/slide/zion.jpg" alt="zion">
+        <figcaption>Zion National Park</figcaption>
+      </figure>
+    </div>
+    <div class="swiper-slide">
+      <figure>
+        <img src="/assets/img/slide/leavenworth.JPG" alt="leavenworth">
+        <figcaption>Climbing in Leavenworth</figcaption>
+      </figure>
+    </div>
+    <div class="swiper-slide">
+      <figure>
+        <img src="/assets/img/slide/friends.jpg" alt="friends">
+        <figcaption>Some friends</figcaption>
+      </figure>
+    </div>
+    <div class="swiper-slide">
+      <figure>
+        <img src="/assets/img/slide/camp.jpg" alt="camp">
+        <figcaption>Camping after a long bike ride</figcaption>
+      </figure>
+    </div>
+    <div class="swiper-slide">
+      <figure>
+        <img src="/assets/img/slide/bikepacking.jpg" alt="bikepack">
+        <figcaption>Bikepacking</figcaption>
+      </figure>
+    </div>
+    <div class="swiper-slide">
+      <figure>
+        <img src="/assets/img/slide/chess.jpg" alt="Chess">
+        <figcaption>Playing in a chess tournament</figcaption>
       </figure>
     </div>
   </div>
