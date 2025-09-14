@@ -119,6 +119,11 @@
     font-style: italic;
   }
 
+  .table-centered {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   #back-to-top {
     color: var(--global-back-to-top-text-color);
     background: var(--global-back-to-top-bg-color);
