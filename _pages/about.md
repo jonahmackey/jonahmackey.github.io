@@ -15,15 +15,9 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I am a Master’s student in Computer Science at the [University of Toronto](https://web.cs.toronto.edu/), advised by Professor [Vardan Papyan](https://sites.google.com/view/vardan-papyan/home), and a graduate student researcher at the [Vector Institute](https://vectorinstitute.ai/).
+I am a Master’s student in Computer Science at the [University of Toronto](https://web.cs.toronto.edu/), advised by Professor [Vardan Papyan](https://sites.google.com/view/vardan-papyan/home), and a graduate student researcher at the [Vector Institute](https://vectorinstitute.ai/). I will be joining [Boson AI](https://www.boson.ai/) in February 2026. 
 
-My research focuses on developing methods that enable foundation models—particularly in NLP—to learn and operate effectively in complex, real-world settings. Much of my work involves running experiments on large transformer models to study their inner workings, revealing phenomena that both explain model behaviour and inform the design of better learning algorithms. I am especially interested in:
-- Mechanistic interpretability
-- Safety
-- Reasoning
-- Long-context and streaming applications
-- Test-time scaling
-- Continual learning
+My research focuses on mechanistic interpretability of language models—particularly in the context of AI safety and alignment. Much of my work involves running experiments on large transformer models to study their inner workings, revealing phenomena that both explain model behaviour and inform the design of better learning algorithms. 
 
 Previously, I completed a Bachelor’s degree in Mathematics and Physics at the University of Toronto and participated in the [Fields Undergraduate Summer Research Program](http://www.fields.utoronto.ca/activities/22-23/2022-FUSRP) at the [Fields Institute](http://www.fields.utoronto.ca/). 
 
