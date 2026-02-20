@@ -15,11 +15,11 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I am a Master’s student in Computer Science at the [University of Toronto](https://web.cs.toronto.edu/), advised by Professor [Vardan Papyan](https://sites.google.com/view/vardan-papyan/home), and a graduate student researcher at the [Vector Institute](https://vectorinstitute.ai/). I will be joining [Boson AI](https://www.boson.ai/) in February 2026. 
+I'm currently a **Machine Learning Engineer** at [Boson AI](https://www.boson.ai/) working on LLM evaluation. 
 
-My research focuses on mechanistic interpretability of language models—particularly in the context of AI safety and alignment. Much of my work involves running experiments on large transformer models to study their inner workings, revealing phenomena that both explain model behaviour and inform the design of better learning algorithms. 
+Previously, I was a **Computer Science Master's** student at the [University of Toronto](https://web.cs.toronto.edu/), advised by Professor [Vardan Papyan](https://sites.google.com/view/vardan-papyan/home), and a graduate student researcher at the [Vector Institute](https://vectorinstitute.ai/).
 
-Previously, I completed a Bachelor’s degree in Mathematics and Physics at the University of Toronto and participated in the [Fields Undergraduate Summer Research Program](http://www.fields.utoronto.ca/activities/22-23/2022-FUSRP) at the [Fields Institute](http://www.fields.utoronto.ca/). 
+<!-- My research focuses on mechanistic interpretability of language models—particularly in the context of AI safety and alignment. Much of my work involves running experiments on large transformer models to study their inner workings, revealing phenomena that both explain model behaviour and inform the design of better learning algorithms.  -->
 
 ---
 
