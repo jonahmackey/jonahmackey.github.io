@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I'm currently a **Machine Learning Engineer** at [Boson AI](https://www.boson.ai/) working on LLM evaluation. 
+I'm currently a **Machine Learning Engineer** at [Boson AI](https://www.boson.ai/). 
 
 Previously, I was a **Computer Science Master's** student at the [University of Toronto](https://web.cs.toronto.edu/), advised by Professor [Vardan Papyan](https://sites.google.com/view/vardan-papyan/home), and a graduate student researcher at the [Vector Institute](https://vectorinstitute.ai/).
 
